@@ -21,16 +21,35 @@
     background-color: coral;
 }
 
-.second button {
+.wrapper {
+    width: 820px;
+    margin: 0 auto;
+}
+
+.info-block-one {
+    overflow: hidden;
+}
+
+.info-block-one button {
     background-color: sienna;
     color: aliceblue;
 }
 
-.second img {
+.info-block-one img {
     float: right;
 }
 
 .text {
     float: left;
     width: 500px;
+}
+
+/* info-block-two */
+
+.info-block-two img {
+    float: left;
+}
+
+.text2 {
+    float: right;
 }
