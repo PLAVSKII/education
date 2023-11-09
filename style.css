@@ -20,3 +20,17 @@
     width: 1 auto;
     background-color: coral;
 }
+
+.second button {
+    background-color: sienna;
+    color: aliceblue;
+}
+
+.second img {
+    float: right;
+}
+
+.text {
+    float: left;
+    width: 500px;
+}
