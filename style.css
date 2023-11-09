@@ -1,0 +1,22 @@
+.header{
+    width: 1360px;
+    height: 90px;
+    background-color: #F9E0AE;
+}
+
+.header li{
+    text-decoration: none;
+    display: inline;
+    float: right;
+    margin-right: 20px;
+}
+
+.image {
+    float: left;
+}
+
+.header button{
+    float: right;
+    width: 1 auto;
+    background-color: coral;
+}
